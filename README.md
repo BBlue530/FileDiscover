@@ -1,4 +1,4 @@
-Redacted File Finder is a Python-based tool that uses the Wayback Machine API to find redacted files tied to a specific website. It can search historical snapshots of URLs, filter them based on specific file extensions, download the files, and extract metadata to give more insight into the file's contents.
+FileDiscover is a Python-based tool that uses the Wayback Machine API to find redacted files tied to a specific website. It can search historical snapshots of URLs, filter them based on specific file extensions, download the files, and extract metadata to give more insight into the file's contents.
 
 Features:
 
