@@ -1,3 +1,19 @@
+Redacted File Finder is a Python-based tool that uses the Wayback Machine API to find redacted files tied to a specific website. It can search historical snapshots of URLs, filter them based on specific file extensions, download the files, and extract metadata to give more insight into the file's contents.
+
+Features:
+
+Wayback Machine Integration: Fetch archived URLs from the Wayback Machine.
+
+URL Filtering: Filters URLs based on file extensions (e.g., PDFs, Word documents, spreadsheets).
+
+File Downloading: Downloads valid files from historical snapshots.
+
+Metadata Extraction: Extracts and processes metadata from a variety of file formats (Excel, PDF, Word, Images, etc.).
+
+Snapshot Validation: Checks if archived URLs contain valid snapshots.
+
+
+
 Legal Disclaimer
 
 Educational Use Only
